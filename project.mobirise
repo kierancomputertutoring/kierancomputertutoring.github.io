@@ -37,6 +37,16 @@
     "mcSmartCart": {
       "currency": "USD"
     },
+    "favicon": "@PROJECT_PATH@/assets/images/avatar.png",
+    "mbrsiteDomain": "dlev8yubwg",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
     "uniqCompNum": 4,
     "versionPublish": "5.3.10"
   },
